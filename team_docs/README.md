@@ -9,4 +9,4 @@ This folder contains all of the project managemnet documents for the team. They 
 ## Progress Reports
 1. 3/5/2017 
 
-![computers](/assets/computers.jpg)
+![computers](assets/computers.jpg)
